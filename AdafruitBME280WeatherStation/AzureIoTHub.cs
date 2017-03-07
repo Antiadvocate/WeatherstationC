@@ -10,7 +10,7 @@ static class AzureIoTHub
     // Note: this connection string is specific to the device "WeatherStation". To configure other devices,
     // see information on iothub-explorer at http://aka.ms/iothubgetstartedVSCS
     //
-    const string deviceConnectionString = "HostName=WeatherStation-v1.azure-devices.net;DeviceId=WeatherStation;SharedAccessKey=GVUb7kNP37IJ4eL0C3CUn4jRCVd/K+tNj16+OL0rXzc=";
+    const string deviceConnectionString = "HostName=WeatherStation-v1.azure-devices.net;DeviceId=WeatherStation;SharedAccessSignature=SharedAccessSignature sr=WeatherStation-v1.azure-devices.net%2Fdevices%2FWeatherStation&sig=eeEQCI2LCclgd755T5jPYa0Z2KraMgjcUEAWuNsSPhY%3D&se=1489780914";
 
     //
     // To monitor messages sent to device "WeatherStation" use iothub-explorer as follows:

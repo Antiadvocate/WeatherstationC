@@ -1,0 +1,2 @@
+MainPackage=C:\Users\unbro\Downloads\AdafruitBME280WeatherStation-master\AdafruitBME280WeatherStation-master\src\AdafruitBME280WeatherStation\bin\x64\Debug\AdafruitBME280WeatherStation_1.0.0.0_x64_Debug.appx
+SymbolPackage=C:\Users\unbro\Downloads\AdafruitBME280WeatherStation-master\AdafruitBME280WeatherStation-master\src\AdafruitBME280WeatherStation\AppPackages\AdafruitBME280WeatherStation_1.0.0.0_Debug_Test\AdafruitBME280WeatherStation_1.0.0.0_x64_Debug.appxsym
